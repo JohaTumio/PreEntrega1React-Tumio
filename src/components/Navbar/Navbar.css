@@ -1,0 +1,7 @@
+.bg-nav{
+    background: rgb(170,181,238);
+    background: linear-gradient(4deg, rgba(170,181,238,1) 0%, rgba(148,2,83,1) 100%);
+}
+h1{
+    font-family: 'Yellowtail', cursive;
+}
